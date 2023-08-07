@@ -25,6 +25,16 @@ This project showcases a robust HTTP server constructed using C language. Built 
 
 [View on GitHub](https://github.com/MonsterBlue01/Multithread-HTTP-server)
 
+### RSA Encryption Implementation
+
+This project features a secure RSA encryption algorithm crafted using C++. RSA, a widely adopted public-key cryptosystem, enables the encryption of sensitive data and ensures data integrity through decryption.
+
+- Asymmetric Key Cryptography: Utilizing the power of public and private keys, the project ensures that encrypted data can only be decrypted by the intended recipient.
+- Number Theory Foundations: The algorithm efficiently handles prime number generation, modular arithmetic, and Fermat's Little Theorem, which are fundamental to the RSA system.
+- Security & Integrity: Through the RSA encryption-decryption process, the integrity of the data is maintained, ensuring that messages are securely transmitted and received without interference.
+
+[View on GitHub](https://github.com/MonsterBlue01/RSA-Encryption-Algorithm)
+
 ## Work Experience
 
 **Software Developer at XYZ Company** - Jan 2020 - Present
