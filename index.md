@@ -39,6 +39,6 @@ This project showcases a robust HTTP server constructed using C language. Built 
 
 ## Contact
 
-Email: janedoe@example.com
+Email: [wdsrs020808@gmail.com](mailto:wdsrs020808@gmail.com)
 
-LinkedIn: [JaneDoe](https://linkedin.com/in/janedoe)
+LinkedIn: [Dongjing Wang](https://www.linkedin.com/in/dongjing-wang/)
