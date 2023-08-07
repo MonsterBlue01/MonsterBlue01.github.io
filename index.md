@@ -45,6 +45,16 @@ This project offers a rudimentary yet functional MapReduce implementation, entir
 
 [View on GitHub](https://github.com/MonsterBlue01/Map-Reduce)
 
+### Distributed Chat Application in Java
+
+This project showcases a sophisticated chat application developed using Java, offering a seamless experience for real-time communication across distributed systems. By leveraging Java's Remote Method Invocation (RMI), the application facilitates server-client interactions, ensuring instant message broadcasting and efficient handling of multiple clients.
+
+- Distributed Real-time Communication: Using a centralized server, the system enables real-time chat capabilities, ensuring that messages broadcasted by one client are instantly relayed to all other clients connected to the system.
+- User Authentication System: Beyond just chatting, users have the ability to create accounts, sign in, and sign out, fostering a secure environment for communication. The application has dedicated modules like User.java and Database.java to handle user data and authentication processes.
+- Design & Documentation: Along with a robust system design, the project provides comprehensive documentation and sketches that elucidate the key components and their interactions, ensuring easy onboarding for developers and users alike.
+
+[View on GitHub](https://github.com/MonsterBlue01/Distributed-Chat-Application)
+
 ## Work Experience
 
 **Software Developer at XYZ Company** - Jan 2020 - Present
