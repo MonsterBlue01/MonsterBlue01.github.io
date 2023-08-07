@@ -15,14 +15,15 @@ This project involves an efficient Python-based implementation of Huffman Coding
 
 [View on GitHub](https://github.com/MonsterBlue01/Huffman-Coding)
 
-### Project 2
+### Multi-threaded HTTP Server
 
-Description about another project. 
+This project showcases a robust HTTP server constructed using C language. Built on the principles of socket programming, the server efficiently handles multiple simultaneous client requests.
 
-- Feature A
-- Feature B
+- Socket Programming: The server is grounded in the fundamentals of socket programming, ensuring reliable communication over the network.
+- Concurrent Client Handling: With multi-threading capabilities, the server can efficiently manage and respond to multiple client requests concurrently, providing improved response times and throughput.
+- Standard Protocol Adherence: Following the HTTP protocol standards, the server can cater to common web requests and serve appropriate responses.
 
-[Link to Project](https://example.com)
+[View on GitHub](https://github.com/MonsterBlue01/Multithread-HTTP-server)
 
 ## Work Experience
 
