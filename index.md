@@ -6,14 +6,14 @@ I'm a senior computer science student at UCSC, well-versed in languages such as 
 
 ## Projects
 
-### Project 1
+### Huffman Coding Implementation
 
-Description about the project. 
+This project involves an efficient Python-based implementation of Huffman Coding, a popular lossless data compression algorithm. By leveraging the properties of Huffman Coding, the program dynamically generates compressed data and respective codes.
 
-- Feature 1
-- Feature 2
+- Dynamic Tree Building: The program constructs an optimized Huffman Tree based on input data frequencies, ensuring the most frequent characters have shorter codes.
+- Lossless Compression: It maintains the integrity of the original data, allowing for flawless decompression.
 
-[Link to Project](https://example.com)
+[View on GitHub](https://github.com/MonsterBlue01/Huffman-Coding)
 
 ### Project 2
 
