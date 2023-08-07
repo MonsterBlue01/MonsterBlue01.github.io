@@ -35,6 +35,16 @@ This project features a secure RSA encryption algorithm crafted using C++. RSA, 
 
 [View on GitHub](https://github.com/MonsterBlue01/RSA-Encryption-Algorithm)
 
+### MapReduce - Word Count in C
+
+This project offers a rudimentary yet functional MapReduce implementation, entirely crafted in C, focusing on determining word occurrences within a text file. Adopting the core principles of distributed data processing, it breaks down the task into smaller chunks, processes them, and aggregates the results to achieve efficient word counting.
+
+- Parallel Data Processing: By emulating the core structure of the MapReduce paradigm, the model effectively splits the input data, processes it in parallel (mapping), and then consolidates the results (reducing).
+- Efficient File Handling: With the main program word_count.c, it efficiently reads the input file, invokes the Mapper and Reducer functions, and finally presents the word count results.
+- Simplicity & Modularity: The separation into map_reduce.c for core functions and map_reduce.h for declarations enables modular enhancements, making it a foundation for more complex MapReduce tasks in C.
+
+[View on GitHub](https://github.com/MonsterBlue01/Map-Reduce)
+
 ## Work Experience
 
 **Software Developer at XYZ Company** - Jan 2020 - Present
