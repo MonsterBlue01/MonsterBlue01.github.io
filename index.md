@@ -1,8 +1,8 @@
-# Jane Doe
+# Dongjing Wang
 
 ## About Me
 
-I'm a software developer with a passion for building intuitive web applications. I have over 5 years of experience in JavaScript, React, and Node.js.
+I'm a senior computer science student at UCSC, well-versed in languages such as C/C++ and Python. My academic journey has given me a solid grounding in computer system design and a budding interest in natural language processing (NLP). While my core skills revolve around programming and system design, I'm increasingly captivated by the potential of AI, specifically within the domain of NLP. Beyond programming, my interests extend to computer networks and distributed systems, as I'm eager to understand the underpinnings of our connected digital world. I'm driven by a passion to leverage technology to address complex problems, and I'm keen to explore opportunities that allow me to dive deeper into AI and system architectures.
 
 ## Projects
 
