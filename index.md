@@ -57,15 +57,58 @@ This project showcases a sophisticated chat application developed using Java, of
 
 ## Work Experience
 
-**Software Developer at XYZ Company** - Jan 2020 - Present
+### **Software Engineer (Internship) at Flow**
+*Remote, Texas, United States*  
+Apr 2023 - Jun 2023
+- Responsible for data analysis and processing using Django and Pandas.
+- Assisted the AI team in data crunching to optimize and streamline workflows.
+- Actively pursued opportunities to learn about TensorFlow and other cutting-edge AI technologies.
+- Contributed to the advancement of the team's goals and the overall success of the organization.
+  
+**Skills:** Data Science, Django, Python (Programming Language)
 
-- Responsibility 1
-- Responsibility 2
+---
 
-**Junior Developer at ABC Corp** - Jun 2018 - Dec 2019
+### **Tutor at UCSC - Computer System Design Class**
+*On-site*  
+Apr 2023 - Jun 2023
+- Guided students in understanding the C programming language and computer architecture fundamentals.
+- Provided individualized support by answering student questions and assisting with assignments.
+- Fostered an inclusive and collaborative learning environment, empowering students to succeed academically.
 
-- Task 1
-- Task 2
+**Skills:** Computer Architecture, C (Programming Language)
+
+---
+
+### **Tutor at UCSC - Computer System Design Class**
+*On-site*  
+Jan 2023 - Mar 2023
+- Assisted students in understanding the course material, offering support and guidance.
+- Helped students enhance their problem-solving and analytical skills.
+- Contributed to students' progress and understanding of key concepts.
+
+**Skills:** Tutoring, Presentations, Management, Analytical Skills, Communication, Multithreading, Leadership, HTTPS, Socket Programming, Teaching, English, Git, C (Programming Language)
+
+---
+
+### **Tutor at UCSC - Computer Architecture Class**
+*On-site*  
+Sep 2022 - Dec 2022
+- Assisted students in understanding computer architecture fundamentals, including cache memory, datapath and pipelining, virtual memory, and assembly language.
+- Developed and implemented effective teaching strategies to help students grasp complex topics.
+
+**Skills:** Tutoring, Presentations, Management, Analytical Skills, Communication, RISC-V, Computer Architecture, Teaching, English, Git, Assembly Language
+
+---
+
+### **Tutor (Part-time) at Baskin Engineering, UCSC - Advanced Python Programming Course**
+*On-site, Santa Cruz, California, United States*  
+Jan 2022 - Mar 2022
+- Served as an instructor, guiding students and providing support.
+- Responsible for feedback and assistance on assignments, addressing student questions and concerns.
+- Scheduled office hours for one-on-one assistance on assignments and projects.
+
+**Skills:** Tutoring, Presentations, Management, Analytical Skills, Communication, Teaching, English, Git, Python (Programming Language)
 
 ## Contact
 
