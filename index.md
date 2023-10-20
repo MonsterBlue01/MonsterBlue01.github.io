@@ -103,7 +103,7 @@ Sep 2022 - Dec 2022
 
 ### **Tutor (Part-time) at Baskin Engineering, UCSC - Advanced Python Programming Course**
 *On-site, Santa Cruz, California, United States*  
-Jan 2022 - Mar 2022
+Mar 2022 - June 2022
 - Served as an instructor, guiding students and providing support.
 - Responsible for feedback and assistance on assignments, addressing student questions and concerns.
 - Scheduled office hours for one-on-one assistance on assignments and projects.
